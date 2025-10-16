@@ -503,7 +503,7 @@ export default function HomePage() {
             <h3 className="text-2xl font-bold mb-6 text-center">Bizning joylashuvimiz</h3>
             <div className="relative w-full h-[400px] md:h-[500px] rounded-lg overflow-hidden border border-border">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2996.5983524621634!2d69.20263931541826!3d41.31151797927034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38ae8b0cc379e9c3%3A0xa5a9323b4aa5cb98!2sTashkent%2C%20Uzbekistan!5e0!3m2!1sen!2s!4v1234567890123!5m2!1sen!2s"
+                src="https://www.google.com/maps?q=41.55126220277296,60.34079631508181&output=embed"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
